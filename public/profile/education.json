@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "24 December 2024",
+            "cardTitle": "First year Diploma in Software Development",
+            "cardSubtitle":"The IIE's Varsity College",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "12 January 2024",
+            "cardTitle": "Matric",
+            "cardSubtitle":"Kanonkop Hoerskool",
+            "cardDetailedText": ""
+        }
+    ]
+}
